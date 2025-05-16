@@ -8,10 +8,9 @@ The data scientists who created the newsletter would like to understand better t
 ## Goals 🎯
 The project can be cut into four steps :
 
-Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv
-Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)
-Part 3 : Take some time to analyze your best model's parameters. Are there any lever for action that would help to improve the newsletter's conversion rate ? What recommendations would you make to the team ?
-Deliverable 📬
+- Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv
+- Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)
+- Part 3 : Take some time to analyze your best model's parameters. Are there any lever for action that would help to improve the newsletter's conversion rate ? What recommendations would you make to the team ?
 
 ## To complete this project, your team should:
 - Create some relevant figures for EDA
